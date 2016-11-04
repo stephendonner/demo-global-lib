@@ -1,7 +1,7 @@
 package org.foo;
 
-class Bar {
+class Bar implements Serializable {
     def helloFunction() {
-	println("hello from helloFunction!")
+	println("hello Brotein Shake!")
     }
 }
